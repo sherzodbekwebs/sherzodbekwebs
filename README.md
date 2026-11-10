@@ -140,7 +140,7 @@ Power BI · GitHub Actions
 <div align="center">
 
 <a href="https://github.com/sherzodbekwebs">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sherzodbekwebs&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=2dd4bf&area=true&hide_border=true" alt="Sherzodbek's GitHub contribution activity graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sherzodbekwebs&theme=github_dark" alt="Sherzodbek's GitHub contribution overview" width="100%" />
 </a>
 
 <sub><a href="https://github.com/sherzodbekwebs?tab=overview">Contribution overview</a> · <a href="https://github.com/sherzodbekwebs?tab=repositories">Repositories</a> · <a href="https://github.com/pulls?q=is%3Apr+author%3Asherzodbekwebs">Pull requests</a></sub>
