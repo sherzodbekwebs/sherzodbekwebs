@@ -2,148 +2,55 @@
 
 <img src="./assets/profile-banner.svg" alt="Sherzodbek Khaydarov — Full-Stack Developer and Data Analyst" width="100%" />
 
-<br/>
+<p><strong>Full-Stack Developer · Backend Engineer · Data Analytics</strong></p>
+<p>Building dependable web products, scalable APIs, and useful data insights.</p>
 
-**Full-Stack Developer** &nbsp;·&nbsp; **Backend Engineering** &nbsp;·&nbsp; **Data Analytics**
-
-<p>Building modern interfaces, scalable APIs and practical data-driven solutions.</p>
-
-<a href="https://t.me/sherzodbek_khaydarov"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sherzodbek-khaydarov-ba0657345/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sherzodbekazamatugli@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sherzodbekwebs&color=0e75b6&style=flat-square&label=Profile+views" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/sherzodbekwebs?style=flat-square&label=Followers&color=0e75b6" alt="Followers" />
+<a href="https://t.me/sherzodbek_khaydarov"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sherzodbek-khaydarov-ba0657345/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sherzodbekazamatugli@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## ⚡ Engineering Focus
+## About
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+I build practical software that connects thoughtful interfaces, reliable backend services, and data-informed workflows. My work spans full-stack web development, API design, database integration, and analytics dashboards.
 
-### 💻 Full-Stack Development
+## Areas of Focus
 
-Responsive, accessible web interfaces with **React, Next.js, TypeScript and Tailwind CSS**.
+| Full-Stack Development | Backend Engineering | Data Analytics |
+| --- | --- | --- |
+| Responsive interfaces and product features | REST APIs, authentication, and server-side applications | SQL, Python, reporting, and dashboards |
+| React, Next.js, TypeScript | Node.js, NestJS, Express | Power BI, Excel |
 
-</td>
-<td width="50%" valign="top">
+## Selected Projects
 
-### ⚙️ Backend Engineering
+| Project | Overview |
+| --- | --- |
+| [TaskFlow Pro](https://github.com/sherzodbekwebs/taskflow-pro) | Task management app with a Kanban board, team workflows, notifications, and Uzbek/Russian language support. |
+| [UAT Academy](https://github.com/sherzodbekwebs/uat_academy) | Interactive product learning and quiz experience built with React and Vite. |
+| [Trailer Analytics](https://github.com/sherzodbekwebs/ruautotrailer_analitics) | React and TypeScript dashboard focused on trailer analytics and data visualization. |
+| [Gesture-Controlled 3D Demo](https://github.com/sherzodbekwebs/hands-detect-figer-motion) | Browser-based 3D interaction using MediaPipe hand tracking and Three.js. |
 
-Clean **REST APIs**, authentication, database integration and server-side architecture with **NestJS and Node.js**.
+## Technology Stack
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 📊 Data Analytics
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,nestjs,express,postgres,prisma,python,git,github,vscode,postman&perline=9&theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Node.js, NestJS, Express, PostgreSQL, Prisma, Python, Git, GitHub, VS Code, and Postman" />
 
-Turning raw data into actionable insights using **SQL, Python, Power BI and Excel**.
+</div>
 
-</td>
-<td width="50%" valign="top">
+**Databases & analytics:** PostgreSQL · SQL · Prisma · Python · Power BI · Excel  
+**Development:** React · Next.js · TypeScript · Node.js · NestJS · Express · REST APIs
 
-### 🗄️ Data & Databases
-
-Relational database design, efficient SQL queries and data management with **PostgreSQL, SQL Server and Prisma**.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technology Stack
-
-<table width="100%">
-<tr>
-<td align="center" width="33%" valign="top">
-
-### 💻 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&perline=4&theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS" />
-
-<br/><sub>Interfaces · Responsive UI · TypeScript</sub>
-
-</td>
-<td align="center" width="33%" valign="top">
-
-### ⚙️ Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,prisma,python&perline=3&theme=dark" alt="Node.js, NestJS, Express, PostgreSQL, Prisma, Python" />
-
-<br/><sub>REST APIs · Auth · Database design</sub>
-
-</td>
-<td align="center" width="34%" valign="top">
-
-### 🎯 Specialties
-
-REST APIs · Authentication
-
-Admin dashboards · CRM systems
-
-Database design · Data dashboards
-
-Deployment & CI/CD
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="top">
-
-### 🧰 Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4&theme=dark" alt="Git, GitHub, VS Code, Postman" />
-
-<br/><sub>Git · Collaboration · API testing</sub>
-
-</td>
-<td align="center" valign="top">
-
-### 📊 Analytics Toolkit
-
-**SQL · Power BI · Excel · Python**
-
-<br/>
-
-Data preparation · Reporting
-
-Dashboards · Visualizations
-
-</td>
-<td align="center" valign="top">
-
-### 🚀 Currently Using
-
-**Next.js + NestJS**
-
-PostgreSQL · Prisma
-
-Power BI · GitHub Actions
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/sherzodbekwebs">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sherzodbekwebs&theme=github_dark" alt="Sherzodbek's GitHub contribution overview" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sherzodbekwebs&theme=github_dark" alt="GitHub contribution overview" width="100%" />
 </a>
-
-<sub><a href="https://github.com/sherzodbekwebs?tab=overview">Contribution overview</a> · <a href="https://github.com/sherzodbekwebs?tab=repositories">Repositories</a> · <a href="https://github.com/pulls?q=is%3Apr+author%3Asherzodbekwebs">Pull requests</a></sub>
 
 </div>
 
@@ -151,13 +58,10 @@ Power BI · GitHub Actions
 
 <div align="center">
 
-### 🤝 Let's Connect
+### Let’s Connect
 
-I'm always interested in learning, engineering and working with data.
+Open to learning, building useful software, and collaborating on meaningful projects.
 
-**[Telegram](https://t.me/sherzodbek_khaydarov)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/sherzodbek-khaydarov-ba0657345/)** &nbsp;·&nbsp; **[Email](mailto:sherzodbekazamatugli@gmail.com)**
-
-<sub>Always learning. Always improving.</sub>
+[Telegram](https://t.me/sherzodbek_khaydarov) · [LinkedIn](https://www.linkedin.com/in/sherzodbek-khaydarov-ba0657345/) · [Email](mailto:sherzodbekazamatugli@gmail.com)
 
 </div>
-<!-- Profile README: reviewed and updated -->
