@@ -2,8 +2,7 @@
 
 <img src="./assets/profile-banner.svg" alt="Sherzodbek Khaydarov — Full-Stack Developer and Data Analyst" width="100%" />
 
-<p><strong>Full-Stack Developer · Backend Engineer · Data Analytics</strong></p>
-<p>Building dependable web products, scalable APIs, and useful data insights.</p>
+<br/>
 
 <a href="https://t.me/sherzodbek_khaydarov"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/sherzodbek-khaydarov-ba0657345/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -12,7 +11,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sherzodbekwebs&color=0e75b6&style=flat-square&label=Profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=sherzodbekwebs&color=2dd4bf&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -20,25 +19,69 @@
 
 ## About
 
-I build practical software that connects thoughtful interfaces, reliable backend services, and data-informed workflows. My work spans full-stack web development, API design, database integration, and analytics dashboards.
+I’m a full-stack developer who enjoys turning real workflow needs into clear, dependable software: thoughtful interfaces, reliable APIs, and useful data insights.
 
-## Areas of Focus
+## What I Work On
 
-| Full-Stack Development | Backend Engineering | Data Analytics |
-| --- | --- | --- |
-| Responsive interfaces and product features | REST APIs, authentication, and server-side applications | SQL, Python, reporting, and dashboards |
-| React, Next.js, TypeScript | Node.js, NestJS, Express | Power BI, Excel |
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-## Technology Stack
+### Product Engineering
 
-<div align="center">
+Responsive web interfaces and practical end-to-end product features.
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,nestjs,express,postgres,prisma,python,git,github,vscode,postman&perline=9&theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Node.js, NestJS, Express, PostgreSQL, Prisma, Python, Git, GitHub, VS Code, and Postman" />
+</td>
+<td width="34%" valign="top">
 
-</div>
+### Backend & APIs
 
-**Databases & analytics:** PostgreSQL · SQL · Prisma · Python · Power BI · Excel  
-**Development:** React · Next.js · TypeScript · Node.js · NestJS · Express · REST APIs
+Structured REST APIs, authentication, and maintainable server-side systems.
+
+</td>
+<td width="33%" valign="top">
+
+### Data & Analytics
+
+SQL and Python workflows, reporting, and dashboards that make data easier to use.
+
+</td>
+</tr>
+</table>
+
+## Technology
+
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&perline=4&theme=dark" alt="React, Next.js, TypeScript, Tailwind CSS" />
+
+<sub>React · Next.js · TypeScript · Tailwind CSS</sub>
+
+</td>
+<td width="34%" align="center" valign="top">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma&perline=4&theme=dark" alt="Node.js, NestJS, Express, Prisma" />
+
+<sub>Node.js · NestJS · Express · PostgreSQL</sub>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### Data
+
+<img src="https://skillicons.dev/icons?i=python,postgres&perline=2&theme=dark" alt="Python and PostgreSQL" />
+
+<sub>SQL · Python · Power BI · Excel</sub>
+
+</td>
+</tr>
+</table>
 
 ## GitHub Activity
 
@@ -47,17 +90,5 @@ I build practical software that connects thoughtful interfaces, reliable backend
 <a href="https://github.com/sherzodbekwebs">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sherzodbekwebs&theme=github_dark" alt="GitHub contribution overview" width="100%" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### Let’s Connect
-
-Open to learning, building useful software, and collaborating on meaningful projects.
-
-[Telegram](https://t.me/sherzodbek_khaydarov) · [LinkedIn](https://www.linkedin.com/in/sherzodbek-khaydarov-ba0657345/) · [Instagram](https://www.instagram.com/khadarov_sh/) · [Email](mailto:sherzodbekazamatugli@gmail.com)
 
 </div>
