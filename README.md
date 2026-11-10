@@ -64,40 +64,70 @@ Relational database design, efficient SQL queries and data management with **Pos
 
 <table width="100%">
 <tr>
-<td align="center" width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
-### Frontend
+### 💻 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&perline=4&theme=dark" alt="React Next.js TypeScript JavaScript HTML CSS Tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&perline=4&theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS" />
+
+<br/><sub>Interfaces · Responsive UI · TypeScript</sub>
 
 </td>
-<td align="center" width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
-### Backend & Databases
+### ⚙️ Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,prisma,python&perline=3&theme=dark" alt="Node.js NestJS Express PostgreSQL Prisma Python" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,prisma,python&perline=3&theme=dark" alt="Node.js, NestJS, Express, PostgreSQL, Prisma, Python" />
+
+<br/><sub>REST APIs · Auth · Database design</sub>
+
+</td>
+<td align="center" width="34%" valign="top">
+
+### 🎯 Specialties
+
+REST APIs · Authentication
+
+Admin dashboards · CRM systems
+
+Database design · Data dashboards
+
+Deployment & CI/CD
 
 </td>
 </tr>
 <tr>
 <td align="center" valign="top">
 
-### Developer Tools
+### 🧰 Developer Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4&theme=dark" alt="Git GitHub VS Code Postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4&theme=dark" alt="Git, GitHub, VS Code, Postman" />
+
+<br/><sub>Git · Collaboration · API testing</sub>
 
 </td>
 <td align="center" valign="top">
 
-### Analytics Toolkit
-
-<br/>
+### 📊 Analytics Toolkit
 
 **SQL · Power BI · Excel · Python**
 
 <br/>
 
-Data preparation · Reporting · Dashboards
+Data preparation · Reporting
+
+Dashboards · Visualizations
+
+</td>
+<td align="center" valign="top">
+
+### 🚀 Currently Using
+
+**Next.js + NestJS**
+
+PostgreSQL · Prisma
+
+Power BI · GitHub Actions
 
 </td>
 </tr>
@@ -109,7 +139,11 @@ Data preparation · Reporting · Dashboards
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sherzodbekwebs&theme=github_dark" alt="GitHub contribution overview" width="100%" />
+<a href="https://github.com/sherzodbekwebs">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sherzodbekwebs&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=2dd4bf&area=true&hide_border=true" alt="Sherzodbek's GitHub contribution activity graph" width="100%" />
+</a>
+
+<sub><a href="https://github.com/sherzodbekwebs?tab=overview">Contribution overview</a> · <a href="https://github.com/sherzodbekwebs?tab=repositories">Repositories</a> · <a href="https://github.com/pulls?q=is%3Apr+author%3Asherzodbekwebs">Pull requests</a></sub>
 
 </div>
 
